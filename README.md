@@ -1,5 +1,9 @@
 # README #
 
+## Table of Contents
+
+- example_file.txt
+
 Important Steps for git workflow
 
 1. Initialize repo with git init
