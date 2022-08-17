@@ -10,3 +10,5 @@ Important Steps for git workflow
 2. Create hcanges to project files
 3. Check status of files with git status 
 ....
+
+Hello, World. I love using git!
