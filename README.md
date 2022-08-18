@@ -12,3 +12,6 @@ Important Steps for git workflow
 ....
 
 Hello, World. I love using git!
+
+
+Modifying README to pull to local
